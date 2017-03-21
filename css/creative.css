@@ -223,6 +223,14 @@ header .header-content .header-content-inner p {
 .service-box p {
   margin-bottom: 0;
 }
+.service-box i {
+  font-size: 90px;
+  color: #F05F40;
+}
+.service-box .icon {
+  font-size: 90px;
+  color: #F05F40;
+}
 .portfolio-box {
   position: relative;
   display: block;
